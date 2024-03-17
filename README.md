@@ -18,9 +18,9 @@ La letra "u" es convertida para "ufat"
   "gato" => "gaitober"
   gaitober" => "gato"
 
-- La página debe tener campos para:
+4. La página debe tener campos para:
   inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
-- El resultado debe ser mostrado en la pantalla.
+5. El resultado debe ser mostrado en la pantalla.
 
 ## 😱 Extras:
 
